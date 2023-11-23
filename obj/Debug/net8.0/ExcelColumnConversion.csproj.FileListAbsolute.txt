@@ -1,0 +1,14 @@
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.AssemblyInfoInputs.cache
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.AssemblyInfo.cs
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.csproj.CoreCompileInputs.cache
+C:\Users\user\ExcelColumnConversion\bin\Debug\net8.0\ExcelColumnConversion.exe
+C:\Users\user\ExcelColumnConversion\bin\Debug\net8.0\ExcelColumnConversion.deps.json
+C:\Users\user\ExcelColumnConversion\bin\Debug\net8.0\ExcelColumnConversion.runtimeconfig.json
+C:\Users\user\ExcelColumnConversion\bin\Debug\net8.0\ExcelColumnConversion.dll
+C:\Users\user\ExcelColumnConversion\bin\Debug\net8.0\ExcelColumnConversion.pdb
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.dll
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\refint\ExcelColumnConversion.dll
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.pdb
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ExcelColumnConversion.genruntimeconfig.cache
+C:\Users\user\ExcelColumnConversion\obj\Debug\net8.0\ref\ExcelColumnConversion.dll
